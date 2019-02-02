@@ -1,0 +1,3 @@
+[submodule "old-site"]
+	path = old-site
+	url = git@github.com:Lydzje/old-site
