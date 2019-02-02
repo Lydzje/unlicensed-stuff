@@ -13,3 +13,6 @@
 [submodule "vamp"]
 	path = vamp
 	url = git@github.com:Lydzje/vamp
+[submodule "corruption-sack"]
+	path = corruption-sack
+	url = git@github.com:Lydzje/corruption-sack
