@@ -4,3 +4,6 @@
 [submodule "nice-music-ghpage"]
 	path = nice-music-ghpage
 	url = git@github.com:Lydzje/nice-music-ghpage
+[submodule "newPersonalPage"]
+	path = newPersonalPage
+	url = git@github.com:Lydzje/newPersonalPage
