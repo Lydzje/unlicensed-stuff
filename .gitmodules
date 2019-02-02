@@ -1,3 +1,6 @@
 [submodule "old-site"]
 	path = old-site
 	url = git@github.com:Lydzje/old-site
+[submodule "nice-music-ghpage"]
+	path = nice-music-ghpage
+	url = git@github.com:Lydzje/nice-music-ghpage
