@@ -7,3 +7,6 @@
 [submodule "newPersonalPage"]
 	path = newPersonalPage
 	url = git@github.com:Lydzje/newPersonalPage
+[submodule "first-java-game"]
+	path = first-java-game
+	url = git@github.com:Lydzje/first-java-game
