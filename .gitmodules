@@ -10,3 +10,6 @@
 [submodule "first-java-game"]
 	path = first-java-game
 	url = git@github.com:Lydzje/first-java-game
+[submodule "vamp"]
+	path = vamp
+	url = git@github.com:Lydzje/vamp
